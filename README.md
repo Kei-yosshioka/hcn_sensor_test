@@ -1,0 +1,2 @@
+# hcn_sensor_test
+KARURA SCIENSE Sensorで使うHCNセンサの動作確認用のコード
